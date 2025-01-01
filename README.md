@@ -24,12 +24,17 @@ This repository showcases my journey of learning JavaScript, including concepts 
    cd my-js-learning-project
    ```
 
-3. Run specific files:
+ 3. Install Dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Run specific files:
    ```bash
    node src/memoization.js
    ```
 
-4. Run tests:
+5. Run tests:
    ```bash
    npm test
    ```
